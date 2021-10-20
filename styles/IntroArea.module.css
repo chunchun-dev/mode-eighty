@@ -1,0 +1,28 @@
+#introArea {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://i.redd.it/2mhlm2afzof61.jpg');
+    background-repeat: round;
+    background-size:100% 100%;
+    background-color: rgba(0, 0, 0, 0.7); /* Tint color */
+    background-blend-mode: multiply;
+}
+
+#title {
+    font-size: 5rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+#eighty {
+    margin-top: 0;
+    padding-top: 0;
+    font-size: 5rem;
+    background: -webkit-linear-gradient(45deg,#C69320, #FCC201);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
