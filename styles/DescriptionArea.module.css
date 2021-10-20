@@ -10,7 +10,7 @@
 
 #title {
     /*color: #f8d742;*/
-    background: -webkit-linear-gradient(45deg,#C69320, #FCC201);
+    background: -webkit-linear-gradient(-45deg, rgb(126, 95, 20) 40%, rgb(236, 210, 97) 55%, rgb(126, 95, 20) 70%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: 500;
